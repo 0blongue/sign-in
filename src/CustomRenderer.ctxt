@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomRenderer
+comment1.params=
+comment1.target=CustomRenderer()
+comment2.params=arg0\ arg1\ arg2\ arg3\ arg4
+comment2.target=java.awt.Component\ getListCellRendererComponent(javax.swing.JList,\ java.lang.Object,\ int,\ boolean,\ boolean)
+numComments=3

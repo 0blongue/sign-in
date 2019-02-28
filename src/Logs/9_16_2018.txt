@@ -1,0 +1,69 @@
+[HAS INSURANCE] asdf df | Has Visited in 2018 | Waiting | N | Wants food | asd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asdf asdf | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | asd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asd asd | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+[HAS INSURANCE] b b | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+[HAS INSURANCE] asd fd | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 3
+Total New Patients: 3
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a s | Has Visited in 2018 | Waiting | N | Wants food | da (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a s | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a s | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] a s | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asd sdfa | Has Visited in 2018 | Waiting | N | Wants food | asd (General Adult/Medico General)
+[HAS INSURANCE] sdf f | Has Visited in 2018 | Waiting | N | Wants food | asd (General Adult/Medico General)
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] adf df | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+ af fasd | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

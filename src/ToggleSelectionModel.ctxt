@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ToggleSelectionModel
+comment1.params=index0\ index1
+comment1.target=void\ setSelectionInterval(int,\ int)
+comment2.params=isAdjusting
+comment2.target=void\ setValueIsAdjusting(boolean)
+numComments=3

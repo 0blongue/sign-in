@@ -1,0 +1,6 @@
+First Last | N | Duplicated | Does not Have Insurance | Dr. A (General Adult/Medico General)
+f as | N | Unduplicated | Does not Have Insurance | Dr. A (General Adult/Medico General)
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 1

@@ -1,0 +1,70 @@
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | F | Wants food
+Total Patients: 2
+Total New Patients: 1
+Total Follow Ups: 1
+Total Unduplicated Patients: 0
+   | Has Visited in 2018 | Waiting | F | Wants food
+[HAS INSURANCE]   | Has Visited in 2018 | Ready To Be Seen | N | Does not want food
+Total Patients: 2
+Total New Patients: 1
+Total Follow Ups: 1
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | F | Wants food
+   | Has not Visited in 2018 | Ready To Be Seen | N | Wants food
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | F | Does not want food
+Total Patients: 4
+Total New Patients: 2
+Total Follow Ups: 2
+Total Unduplicated Patients: 1
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | F | Wants food
+Total Patients: 1
+Total New Patients: 0
+Total Follow Ups: 1
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE]   | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] f f | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

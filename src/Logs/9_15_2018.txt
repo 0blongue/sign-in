@@ -1,0 +1,124 @@
+[HAS INSURANCE] asdf a | Has Visited in 2018 | Waiting | N | Wants food | Dr Khan (Women's Care/Cuidado De la Mujer)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a as | Has Visited in 2018 | Waiting | N | Wants food | Dr Khan (Women's Care/Cuidado De la Mujer)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a d | Has Visited in 2018 | Waiting | N | Wants food | asf (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] f f | Has Visited in 2018 | Waiting | N | Wants food | af (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asdf asdf | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] dasf sadf | Has not Visited in 2018 | Waiting | F | Does not want food | asd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 0
+Total Follow Ups: 1
+Total Unduplicated Patients: 1
+[HAS INSURANCE] asdf asdf | Has Visited in 2018 | Waiting | F | Wants food | asf (General Adult/Medico General)
+[HAS INSURANCE] asdf asdf | Has not Visited in 2018 | Waiting | N | Wants food | asf (General Adult/Medico General)
+Total Patients: 2
+Total New Patients: 1
+Total Follow Ups: 1
+Total Unduplicated Patients: 1
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | ad (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] d d | Has Visited in 2018 | Waiting | N | Wants food | a (Mental Health/Salud Mental)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] af asdf | Has Visited in 2018 | Waiting | N | Wants food | asfd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] Alexandria Guitierrez-Manriquez | Has Visited in 2018 | Waiting | N | Wants food | asfd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] aas ad | Has Visited in 2018 | Waiting | N | Wants food | asf (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a d | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a d | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asd d | Has Visited in 2018 | Waiting | N | Wants food | asd (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

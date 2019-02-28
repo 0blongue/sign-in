@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TableRenderDemo
+comment0.text=\ \r\n\ TableRenderDemo\ is\ just\ like\ TableDemo,\ except\ that\ it\r\n\ explicitly\ initializes\ column\ sizes\ and\ it\ uses\ a\ combo\ box\r\n\ as\ an\ editor\ for\ the\ Sport\ column.\r\n
+comment1.params=
+comment1.target=TableRenderDemo()
+comment2.params=table
+comment2.target=void\ initColumnSizes(javax.swing.JTable)
+comment2.text=\r\n\ This\ method\ picks\ good\ column\ sizes.\r\n\ If\ all\ column\ heads\ are\ wider\ than\ the\ column's\ cells'\r\n\ contents,\ then\ you\ can\ just\ use\ column.sizeWidthToFit().\r\n
+comment3.params=table\ sportColumn
+comment3.target=void\ setUpSportColumn(javax.swing.JTable,\ javax.swing.table.TableColumn)
+comment4.params=
+comment4.target=void\ createAndShowGUI()
+comment4.text=\r\n\ Create\ the\ GUI\ and\ show\ it.\ \ For\ thread\ safety,\r\n\ this\ method\ should\ be\ invoked\ from\ the\r\n\ event-dispatching\ thread.\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ run()
+numComments=7

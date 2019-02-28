@@ -1,0 +1,4 @@
+Total Patients: 2
+Total New Patients: 1
+Total Follow Ups: 1
+Total Unduplicated Patients: 1

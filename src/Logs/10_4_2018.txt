@@ -1,0 +1,174 @@
+[HAS INSURANCE] asdf asdf | Has not Visited in 2018 | Waiting | N | Wants food | asdf (General Adult/Medico General)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 1
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] a f | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] as sd | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asd asdf | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] k l | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] d d | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] adf asdf | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] k k | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] j k | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] as df | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] df df | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asf df | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] asdf dfa | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] asf asdf | Has Visited in 2018 | Waiting | N | Wants food | null
+Total Patients: 3
+Total New Patients: 3
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 2
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 1
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

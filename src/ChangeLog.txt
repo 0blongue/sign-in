@@ -1,0 +1,43 @@
+Change Log
+-----2.2-----
+---New Features---
+*Added a providers feature
+
+---Bug Fixes---
+*Fixed a bug that caused Spanish Patients to be marked Follow Up even if they were New
+
+
+-----2.1-----
+---Tweaks---
+*Added a message to say that the patient has been successfully signed in
+*Numbered the Waiting List
+*Stopped patients from being able to leave the name field blank
+
+---Bug Fixes---
+*Fixed a bug that caused the "Wants Food" option to always be checked in the Edit Pane
+
+
+-----2.0-----
+---New Features---
+*Added a separate tab for the Sign In button and the Waiting List
+*UI Overhaul
+	*Made all text larger
+	*Added color and an arrow to the "Next" button 
+	*Binary Choices are now made with Radio Buttons and a Next Button
+*Created a Change Log
+
+---Tweaks---
+*Changed the color of the waiting list text from black to white
+*Added a button to change the "Wants food" status in the Edit Pane
+*Added a new status, "Ready to Be Seen", to the Status Selection
+
+---Bug Fixes---
+*Fixed a bug that caused the wants food status to disappear from the patient list after editing
+*Fixed a bug that prevented the Spanish Sign In from selecting "No" to the Food Pantry question
+
+
+-----1.1-----
+---Tweaks---
+*Changed the question "Have you visited the Clinic in 2018?" 
+ to "Have you had an appointment at the Clinic in 2018?"
+*Changed the title of the Application from "Test" to "Sign In Kiosk"

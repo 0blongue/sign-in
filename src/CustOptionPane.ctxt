@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CustOptionPane
+comment1.params=message\ options
+comment1.target=java.lang.String\ showInputDialog(java.lang.Object,\ java.lang.Object[])
+comment10.params=actionEvent
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=actionEvent
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=message\ options
+comment3.target=void\ showMessageDialog(java.lang.Object,\ java.lang.Object[])
+comment4.params=actionEvent
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=message\ options\ timeout
+comment5.target=void\ showTimedDialog(java.lang.Object,\ java.lang.Object[],\ int)
+comment6.params=actionEvent
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=message\ options
+comment8.target=java.lang.String\ showConfirmDialog(java.lang.Object,\ java.lang.Object[])
+comment9.params=message\ options\ choices
+comment9.target=java.lang.String\ showChoiceDialog(java.lang.String,\ java.lang.Object[],\ java.lang.Object[])
+numComments=11

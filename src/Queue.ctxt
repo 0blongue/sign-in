@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=
+comment1.target=Queue()
+comment2.params=asdf
+comment2.target=void\ addNew(java.lang.Object)
+comment3.params=
+comment3.target=void\ remove()
+comment4.params=
+comment4.target=java.lang.Object\ getPatient()
+comment5.params=
+comment5.target=java.lang.Object[]\ getData()
+numComments=6

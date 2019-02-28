@@ -1,0 +1,48 @@
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+ f d | Has not Visited in 2018 | Ready To Be Seen | F | Does not want food
+ d d | Has not Visited in 2018 | Rescheduled | N | Does not want food
+[HAS INSURANCE] f f | Has Visited in 2018 | Waiting | N | Wants food
+[HAS INSURANCE] f f | Has Visited in 2018 | Waiting | F | Wants food
+[HAS INSURANCE] ad asd | Has Visited in 2018 | Waiting | F | Wants food
+[HAS INSURANCE] asdf fda | Has Visited in 2018 | Waiting | F | Wants food
+[HAS INSURANCE] asdf fda | Has Visited in 2018 | Waiting | N | Wants food
+[HAS INSURANCE] adsf adf | Has Visited in 2018 | Waiting | F | Wants food
+Total Patients: 8
+Total New Patients: 3
+Total Follow Ups: 5
+Total Unduplicated Patients: 2
+[HAS INSURANCE] asdf das | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+ asf fda | Has not Visited in 2018 | Ready To Be Seen | F | Does not want food
+ f f | Has not Visited in 2018 | Seen | F | Does not want food
+Total Patients: 2
+Total New Patients: 0
+Total Follow Ups: 2
+Total Unduplicated Patients: 2
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asdf daf | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

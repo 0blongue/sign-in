@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=QTable
+comment1.params=providers
+comment1.target=QTable(java.lang.Object[])
+comment10.params=
+comment10.target=void\ editingStopped()
+comment11.params=
+comment11.target=void\ editingCanceled()
+comment12.params=temp
+comment12.target=void\ addRow(Patient)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=java.lang.Object[]\ getData()
+comment4.params=
+comment4.target=int[]\ getNewCount()
+comment5.params=
+comment5.target=int[]\ getUnduplicatedCount()
+comment6.params=
+comment6.target=void\ updateColumnWidths()
+comment7.params=temp
+comment7.target=void\ updateProviders(java.lang.Object[])
+comment8.params=row\ column
+comment8.target=javax.swing.table.TableCellRenderer\ getCellRenderer(int,\ int)
+comment9.params=row\ column
+comment9.target=javax.swing.table.TableCellEditor\ getCellEditor(int,\ int)
+numComments=13

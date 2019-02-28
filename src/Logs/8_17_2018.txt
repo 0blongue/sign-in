@@ -1,0 +1,39 @@
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a d | Has Visited in 2018 | Waiting | N | Wants food | dr (Dental/)
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | F | Wants food | dr2 (General Adult/)
+Total Patients: 2
+Total New Patients: 1
+Total Follow Ups: 1
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | a (General Adult/)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] g g | Has not Visited in 2018 | Waiting | N | Wants food | h (General Adult/)
+ j j | Has Visited in 2018 | Waiting | N | Wants food | h (General Adult/)
+Total Patients: 2
+Total New Patients: 2
+Total Follow Ups: 0
+Total Unduplicated Patients: 1
+[HAS INSURANCE] ; ' | Has Visited in 2018 | Waiting | N | Wants food | j (Mental Health/Servicio Mental)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] a a | Has Visited in 2018 | Waiting | N | Wants food | dr (General Adult/Adulto)
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0

@@ -1,0 +1,26 @@
+[HAS INSURANCE] f f | Has Visited in 2018 | Waiting | N | Wants food
+Total Patients: 1
+Total New Patients: 1
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+Total Patients: 0
+Total New Patients: 0
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+[HAS INSURANCE] asd asd | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] fa fd | Has Visited in 2018 | Waiting | N | Wants food | null
+[HAS INSURANCE] f f | Has Visited in 2018 | Ready To Be Seen | N | Wants food | null
+Total Patients: 3
+Total New Patients: 3
+Total Follow Ups: 0
+Total Unduplicated Patients: 0
+ f f | Has not Visited in 2018 | Ready To Be Seen | F | Does not want food | dfa (General Adult/)
+Total Patients: 1
+Total New Patients: 0
+Total Follow Ups: 1
+Total Unduplicated Patients: 1
+ f f | Has not Visited in 2018 | Waiting | F | Does not want food | khan (General Adult/)
+Total Patients: 1
+Total New Patients: 0
+Total Follow Ups: 1
+Total Unduplicated Patients: 1
