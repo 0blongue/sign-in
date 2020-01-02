@@ -163,8 +163,8 @@ public class Driver extends JFrame {
         String [][][] options = {{{"Next ==>","Cancel"},{"New Patient", "Follow Up"}, {"Yes", "No"}, {"English", "Español"}, {"Return to Main Screen", null}},
                 {{"Continuar ==>", "Cancelar"},{"Paciente nuevo", "Seguimiento"},{"Sí", "No"}, {"English", "Español"}, {"Volver a la Pantalla Principal", null}}};
         String [][] labels = {
-                {"What is your first name?", "What is your last name", "Are you a New Patient or a Follow Up?", "Do you have insurance?", "Have you had an appointment at the clinic in 2018?", "Would you like to collect groceries from the food pantry?", "Sign In Successful", "Which provider would you like to see?", "Thank you for signing in. Please have a seat in the waiting room."},
-                {"¿Cuál es tu primer nombre?", "¿Cuál es tu apellido?", "¿Eres un paciente nuevo o un seguimiento?", "¿Tienes seguro?", "¿Ha tenido una cita en la clínica en 2018?", "¿Te gustaría recoger comestibles de la despensa de alimentos?", "Iniciar sesión exitoso", "¿Qué proveedor te gustaría ver?", "Gracias por registrarse. Siéntese en la sala de espera."}
+                {"What is your first name?", "What is your last name", "Are you a New Patient or a Follow Up?", "Do you have insurance?", "Have you had an appointment at the clinic in " + LocalDateTime.now().getYear() + "?", "Would you like to collect groceries from the food pantry?", "Sign In Successful", "Which provider would you like to see?", "Thank you for signing in. Please have a seat in the waiting room."},
+                {"¿Cuál es tu primer nombre?", "¿Cuál es tu apellido?", "¿Eres un paciente nuevo o un seguimiento?", "¿Tienes seguro?", "¿Ha tenido una cita en la clínica en  " + LocalDateTime.now().getYear() + "?", "¿Te gustaría recoger comestibles de la despensa de alimentos?", "Iniciar sesión exitoso", "¿Qué proveedor te gustaría ver?", "Gracias por registrarse. Siéntese en la sala de espera."}
             };
         String y = CustOptionPane.showChoiceDialog("English/Español",new String[]{"Next/Continuar ==>"}, options[0][3]);
         Patient temp = null;
